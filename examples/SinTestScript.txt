@@ -1,0 +1,6 @@
+loadTestSpec(file:C:\Morphy\examples\bin\SinTest.class)
+makeSeed([randomValues])
+makeMutants1stOrderComplete([piMinus, mid])
+executeTestCases()
+checkMetamorphisms([PiMinusAssertion])
+MeasureTestSet([avgDistance])
