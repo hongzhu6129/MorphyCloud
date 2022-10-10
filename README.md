@@ -8,6 +8,12 @@ Public repository of MorphyCloud project. It contains the following files and fo
 
 -- MorphyCMD.jar : executable jar file to run test on local machine in a text interface. Useful for testing test commands and scripts. 
 
--- examples : fold that contains the examples of using MorphyCloud tool. It contains the following folders and files: 
+-- examples : fold that contains the examples of using MorphyCloud tool. It contains the following files: 
 
----- 
+---- SinTest.class : Java class file for testing sin(x) function;
+
+---- VisualizeOutputs.class : Jave class file for visualise the output of testing;
+
+---- SinTestScript.txt : Test script in Morphy format;
+
+---- SinTestScriptNode2V2,bat : Batch shell script corresponding to SinTestScript for invoking tests on a remote computer. 
