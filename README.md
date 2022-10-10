@@ -2,6 +2,8 @@
 
 Public repository of MorphyCloud project. It contains the following files and folders:
 
+-- annotations : a folder that contains Java code that defines the metadata used to annotate the Java code for specifying test systems. 
+
 -- MorphyAgent.jar : executable jar file of the test service agent to run on a server
 
 -- MorphyCloud.jar : executable jar file for running on workstation to invoke MorphyAgent through commands
