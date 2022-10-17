@@ -1,0 +1,4 @@
+connect(161.73.158.226)
+playTestScript(C:\Morphy\SinTestScript.txt)
+connect(161.73.158.227)
+playTestScript(C:\Morphy\SinTestScript.txt)
