@@ -1,6 +1,6 @@
 # MorphyCloud
 
-Public repository of MorphyCloud project. It contains the executable files of the system and some simple examples. 
+This is the public repository of MorphyCloud project. It contains the executable files of the system and some simple examples. 
 
 The contents of the repository contains following files and folders:
 
