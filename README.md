@@ -1,6 +1,8 @@
 # MorphyCloud
 
-Public repository of MorphyCloud project. It contains the following files and folders:
+Public repository of MorphyCloud project. It contains the executable files of the system and some simple examples. 
+
+The contents of the repository contains following files and folders:
 
 -- annotations : a folder that contains Java code that defines the metadata used to annotate the Java code for specifying test systems. 
 
